@@ -3,7 +3,7 @@
 
 # WEB APPLICATION PENTESTING CHECKLIST
 
-**OWASP Based Checklist
+## OWASP Based Checklist
 
 - **INFORMATION GATHERING**
     
